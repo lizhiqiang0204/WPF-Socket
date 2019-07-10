@@ -1,0 +1,14 @@
+F:\myfile\SocketServerDemo\SocketServerDemo\bin\Debug\SocketServerDemo.exe.config
+F:\myfile\SocketServerDemo\SocketServerDemo\bin\Debug\SocketServerDemo.exe
+F:\myfile\SocketServerDemo\SocketServerDemo\bin\Debug\SocketServerDemo.pdb
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\MainWindow.g.cs
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\App.g.cs
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo_MarkupCompile.cache
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo_MarkupCompile.lref
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\MainWindow.baml
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo.g.resources
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo.Properties.Resources.resources
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo.csproj.GenerateResource.Cache
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo.exe
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo.pdb
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Debug\SocketServerDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+F:\myfile\SocketServerDemo\SocketServerDemo\bin\Release\SocketServerDemo.exe.config
+F:\myfile\SocketServerDemo\SocketServerDemo\bin\Release\SocketServerDemo.exe
+F:\myfile\SocketServerDemo\SocketServerDemo\bin\Release\SocketServerDemo.pdb
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\MainWindow.g.cs
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\App.g.cs
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo_MarkupCompile.cache
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo_MarkupCompile.lref
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\MainWindow.baml
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.g.resources
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.Properties.Resources.resources
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.csproj.GenerateResource.Cache
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.exe
+F:\myfile\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.pdb
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\bin\Release\SocketServerDemo.exe.config
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\bin\Release\SocketServerDemo.exe
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\bin\Release\SocketServerDemo.pdb
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.csprojAssemblyReference.cache
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\MainWindow.g.cs
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\App.g.cs
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo_MarkupCompile.cache
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo_MarkupCompile.lref
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\MainWindow.baml
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.g.resources
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.Properties.Resources.resources
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.csproj.GenerateResource.cache
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.csproj.CoreCompileInputs.cache
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.exe
+E:\VS\WPF\TCP\Socket入门笔记 用TcpClient实现一个简易聊天室\SocketServerDemo\SocketServerDemo\SocketServerDemo\obj\Release\SocketServerDemo.pdb
